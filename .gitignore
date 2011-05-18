@@ -1,0 +1,7 @@
+# Eclipse specific settings
+.settings
+
+# Binaries
+target
+bin
+dist
